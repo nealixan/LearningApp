@@ -1,0 +1,20 @@
+
+# Xcode
+DerivedData/
+build/
+*.xcworkspace
+*.xcuserdata
+*.swiftsourceinfo
+
+# Swift Package Manager
+Packages/
+.swiftpm/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+new file:   .gitignore
+    new file:   .gitignore.swift
+    new file:   App/LearningAppA
